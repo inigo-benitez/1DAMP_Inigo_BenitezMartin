@@ -16,7 +16,7 @@ Un *programa informático* es una serie de instrucciones que le decimos al orden
 
 ### **Enlaces**
 
-!\[Esta es la imagen de la programación en Java](https://blog.ensalza.com/wp-content/uploads/que-es-java.jpg)
+![Esta es la imagen de la programación en Java](https://blog.ensalza.com/wp-content/uploads/que-es-java.jpg)
 
 [Repositorio en GitHub](https://github.com/inigo-benitez/1DAMP_Inigo_BenitezMartin)
 
