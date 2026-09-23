@@ -14,9 +14,10 @@ Un *programa informático* es una serie de instrucciones que le decimos al orden
 
 **Las etapas del desarrollo de software** son los pasos que se siguen para crear un programa. Primero se piensa que se va a *programar*, teniendo en cuenta que esto se adapte a lo que necesite el usuario. Después se escribe el *código*, y se comprueba que todo *funcione*. Por último se *corrigen* posibles fallos, o se hacen *mejoras*.
 
-### **Enlaces**
+**Cambio realizado mediante Visual Studio Code.**
+
+### **Enlaces** 
 
 ![Esta es la imagen de la programación en Java](https://blog.ensalza.com/wp-content/uploads/que-es-java.jpg)
 
 [Repositorio en GitHub](https://github.com/inigo-benitez/1DAMP_Inigo_BenitezMartin)
-
